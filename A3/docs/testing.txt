@@ -1,0 +1,18 @@
+This program was tested quite a bit during the coding procedure.
+
+First the parsing was done completely seperate of the rest of the file, as I wanted to make sure that I can parse correctly without causing segmentation faults or memmory allocation issues. When I was finished with the parsing, I implemented it into the program I had at the time.
+
+The program was tested without any argv commands as the name of the file was hardcoded to minimize errors while debugging. 
+
+The go to input file I tested was the following:
+
+8X17 de6 ds13 h5,5 M4,4 g6,8
+12X12 dn6 ds6 de6 dw6 g7,8 M8,7 p5,5
+10X5 dw4 p2,2 w3,3 s6,3 m2,4
+6X15 ds4 M3,1 dw3 g4,5 g4,9
+14X15 dn7 dw12 p5,4 M8,8 M5,5
+6X6 dn3 ds3 dw3 de3 p2,4
+
+Although I was using the one line found in the assignment discription to test out the room printing and the item printing individually
+
+I went on to test multiple input files including swapping with friends and going on the course discussion page to ensure my program isn't just designed for one input file, but for all of them. :)

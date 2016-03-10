@@ -1,0 +1,23 @@
+Mostafa Rashed		0901940
+CIS 2500 		Assignment Three
+
+*************
+compiling the program
+*************
+To compile this program type 'make' in the root directory
+
+*************
+running the program
+*************
+To run the program type './bin/runMe assets/[file].txt' where [file] is the name of the text file
+Use the 'w' 'a' 's' 'd' keys to move around and pick stuff up, hit 'q' to quit
+
+*************
+known limitations
+*************
+This program sometimes gets stuck in corners
+
+*************
+Enhancements
+*************
+The inventory is printed to the right of the map

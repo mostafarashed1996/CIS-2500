@@ -1,0 +1,41 @@
+I used the part 2 (dairy) to test the functions of my program. 
+
+The text file used for testing was the test file given by Judi on the course discussion. The file is located at 'assets/test2.txt'.
+
+I used the '-ggdb' to detail lines for debugging when running with the gdb command. This helped me with segmentation faults occuring throughout the program.
+
+This is the text file:
+Acorn Squash,vegfruit,40,h
+WINE:DRY,vegfruit,152,j
+Broccoli,vegfruit,34,h
+5TH AVENUE ,grains,482,j
+Cantaloupe,vegfruit,34,h
+Carrots,vegfruit,41,h
+GRANOLA,grains,489,h
+CHEESE:COTTAGE,dairy,72,h
+CHEESE:CREAM,dairy,342,h
+CHEESE:EDAM,dairy,357,h
+CHEESE:FETA,dairy,264,h
+COOKIES:GINGERSNAPS,grains,416,j
+GRAHAM CRACKERS,grains,423,j
+Cucumbers,vegfruit,15,h
+EGG:WHL:CKD:FRIED,dairy,196,h
+EGG:WHL:CKD:HARD-BOILED,dairy,155,h
+FISH OIL:SALMON,meat,902,h
+Green Beans,vegfruit,31,h
+Hazelnuts,vegfruit,628,h
+Honeydew,vegfruit,36,h
+KENTUCKY FRIED CHICK:FRIED,meat,464,j
+Lettuce,vegfruit,15,h
+Okra,vegfruit,31,h
+Onion,vegfruit,40,h
+Papaya,vegfruit,39,h
+Peaches,vegfruit,39,h
+PORK:FRSH:LOIN,meat,204,h
+Rutabagas,vegfruit,36,h
+Serrano Pepper,vegfruit,32,h
+Spaghetti Squash,vegfruit,31,h
+Strawberries,vegfruit,32,h
+Sugar Snap Peas,vegfruit,42,h
+Summer Squash,vegfruit,16,h
+Sunflower Seeds,vegfruit,584,h
